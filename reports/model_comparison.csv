@@ -1,0 +1,9 @@
+,MAE,RMSE,MAPE
+Exponential Smoothing,17.561,20.104,0.723
+SARIMA,35.915,40.535,1.468
+Random Forest,49.644,55.948,2.03
+Gradient Boosting,64.323,73.459,2.638
+ARIMA,71.662,80.214,2.93
+Naive Persistence,76.844,84.72,3.143
+Moving Average (7d),86.797,93.84,3.553
+Linear Regression,226.043,274.81,9.218
